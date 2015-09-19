@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="welcome">bem-vindo!</string>
+    <string name="ok_button">ok!</string>
+    <string name="cancel_button">cancel</string>
+    <string name="Exit_button">exit</string>
 </resources>
